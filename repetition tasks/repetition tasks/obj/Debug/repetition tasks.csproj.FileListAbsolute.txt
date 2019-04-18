@@ -1,0 +1,7 @@
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\bin\Debug\repetition tasks.exe.config
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\bin\Debug\repetition tasks.exe
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\bin\Debug\repetition tasks.pdb
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\obj\Debug\repetition tasks.csprojAssemblyReference.cache
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\obj\Debug\repetition tasks.csproj.CoreCompileInputs.cache
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\obj\Debug\repetition tasks.exe
+C:\Users\102570136\source\repos\repetition tasks\repetition tasks\obj\Debug\repetition tasks.pdb
