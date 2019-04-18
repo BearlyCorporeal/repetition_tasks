@@ -1,0 +1,7 @@
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\bin\Debug\repetition task ex1p4.exe.config
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\bin\Debug\repetition task ex1p4.exe
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\bin\Debug\repetition task ex1p4.pdb
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\obj\Debug\repetition task ex1p4.csprojAssemblyReference.cache
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\obj\Debug\repetition task ex1p4.csproj.CoreCompileInputs.cache
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\obj\Debug\repetition task ex1p4.exe
+C:\Users\102570136\source\repos\repetition task ex1p4\repetition task ex1p4\obj\Debug\repetition task ex1p4.pdb
